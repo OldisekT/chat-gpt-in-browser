@@ -7,6 +7,8 @@ This Chrome extension allows users to easily incorporate the power of GPT-3 into
 - Utilizes OpenAI API to communicate with GPT-3 💻
 - Easy to use interface 🚀
 
+![image](https://imgur.com/BLkdDl9.png)
+
 ## Installation
 1. Download the latest release from [GitHub](https://github.com/username/gpt-3-chrome-extension/releases).
 2. Go to chrome://extensions/ in your browser.
