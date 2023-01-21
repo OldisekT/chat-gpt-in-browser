@@ -10,7 +10,7 @@ This Chrome extension allows users to easily incorporate the power of GPT-3 into
 ![image](https://imgur.com/BLkdDl9.png)
 
 ## Installation
-1. Download the latest release from [GitHub](https://github.com/username/gpt-3-chrome-extension/releases).
+1. Download the latest release from [GitHub](https://github.com/OldisekT/chat-gpt-in-browser/releases).
 2. Go to chrome://extensions/ in your browser.
 3. Enable "Developer mode" by clicking on the toggle switch in the top right corner.
 4. Click on the "Load unpacked" button and select the downloaded folder.
